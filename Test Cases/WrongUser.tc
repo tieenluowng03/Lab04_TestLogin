@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WrongUser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1aee9d3a-64fa-43b5-8490-ca86bdadcfa5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>05c6e43e-fc34-4ebb-aff0-97bf08d0b5e6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>df01af54-a4cf-4ecb-ad01-ba6018c51918</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>05c6e43e-fc34-4ebb-aff0-97bf08d0b5e6</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>df01af54-a4cf-4ecb-ad01-ba6018c51918</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
